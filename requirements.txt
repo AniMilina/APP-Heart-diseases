@@ -1,0 +1,4 @@
+joblib
+streamlit
+Pillow
+scikit-learn
