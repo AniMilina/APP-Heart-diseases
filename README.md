@@ -1,6 +1,6 @@
 # APP-Heart-diseases
 
-<img src="https://raw.githubusercontent.com/AniMilina/APP-Heart-diseases/main/pic.jpg" width="1100" height="450">
+<img src="https://raw.githubusercontent.com/AniMilina/APP-Heart-diseases/main/APP%20Heart%20diseases%20(1).jpg" width="1100" height="450">
 
   <h2>This is my first attempt at creating a mini application for calculating the risk of cardiovascular disease.</h2>
   <ul>
